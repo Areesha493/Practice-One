@@ -1,0 +1,61 @@
+*{
+    margin: 0;padding: 0;
+}
+.parent{
+    background-image: url(/Natural-Facebook-Cover-Photo.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.header{
+    display: inline-block;
+}
+.header ul li{
+    display: flex;
+    padding: 30px 10px;
+    display: inline-block;
+    font-weight: bolder;
+    color:  white;
+    
+}
+.header ul{
+    display: inline-block;
+    margin-left: 570px;
+}
+.header h1 {
+    margin-left: 20px;
+    display: inline-block;
+    padding: 5px 5px ;
+    font-weight: bold;
+    font-style: italic;
+    color:  white;
+}
+.para h1{
+    color: white;
+
+}
+.para{
+    margin-top: 230px;
+}
+
+.mid{
+    background-color: rgb(172, 241, 172);
+}
+.mid ul li{
+     padding: 40px 120px;
+     font-style: italic;
+     font-weight: bolder;
+     display: inline-block;
+     color: rgb(1, 24, 1);
+}
+.footer{
+    background-color: aliceblue;
+}
+.footer h1{
+    font-size: larger;
+    font-weight: lighter;
+    color: black;
+    padding: 10px 10px;
+    margin-left: 550px;
+    
+}

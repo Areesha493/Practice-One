@@ -1,0 +1,84 @@
+
+*{
+    margin: 0;padding: 0;
+   background-image: url(/cover\ photo\ for\ first\ page.png);
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+.header{
+    width: 100vw;
+    height: 25vh;
+   background-color: solid green;
+  
+}
+img{
+    width: 6%;
+    height: 8%;
+    margin-left: 630px;
+}
+ul{
+    margin-left: 450px;
+    margin-top: 15px;
+    background-color: solid green;
+}
+li{
+    padding: 10px 10px;
+    display: inline-block;
+    list-style: none;
+   
+}
+.footer
+{
+    color: rgb(240, 239, 175);
+   width: 100vw;
+height: 30vh;
+    background-color: black;
+    margin-top: 286px;
+   
+    
+}
+.A1{
+    display: inline-block;
+    width: 30vw;
+}
+.A1 img{
+width: 80px;
+height: 80px;
+margin-left: 250px;
+margin-top: 25px;
+}
+.A1 p{
+    margin-left: 250px;
+    margin-top: 25px;
+    
+}
+.A2{
+    width: 30vw;
+    display: inline-block;
+}
+.A2 img{
+    width: 80px;
+    height: 80px;
+    margin-left: 210px;
+    margin-top: 25px;
+}
+.A2 p{
+    margin-left: 210px;
+    margin-top: 30px;
+}
+.A3{
+    display: inline-block;
+    width: 30vw;
+}
+.A3 img{
+    width: 80px;
+    height: 80px;
+    margin-left: 160px;
+    margin-top: 25px;
+}
+.A3 p{
+    margin-left: 160px;
+    margin-top: 25px;
+}

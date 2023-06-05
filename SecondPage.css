@@ -1,0 +1,53 @@
+*{
+    margin: 0;padding: 0;
+}
+.firstA{
+ 
+ 
+}
+.first img{
+    width: 100vw;
+    height: 45vh;
+    position: absolute;
+}
+.logo img{
+    position: relative;
+    width: 45px;
+    height: 45px;
+    margin-top: 220px;
+    margin-left: 20px;
+    display: inline-block;
+}
+.firstA p{
+position: relative;
+margin-left: 80px;
+display:inline-block;
+width: 45px;
+height: 55px;
+margin-bottom: 40px;
+
+}
+.second p{
+    color: darkgreen;
+    
+    margin-left: 500px;
+}
+.secondA p
+{
+    color: greenyellow;
+   margin-left:300px;
+   margin-right: 300px;
+   margin-top: 20px;
+   
+}
+.recipes{
+    display: flexbox;
+    flex-direction: row;
+background-color: black;
+}
+.recipes div img{
+    width: 20%;
+    height: 20%;
+
+    
+}

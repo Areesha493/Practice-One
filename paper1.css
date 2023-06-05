@@ -1,0 +1,21 @@
+*{
+    margin: 0;padding: 0;
+}
+.container{
+background-color: rgba(128, 128, 128, 0.959);
+}
+img{
+    border:  rgb(22, 22, 22);
+    display: inline-block;
+    width: 35px;
+    height: 38px;
+}
+h1{
+    display: inline-block;
+}
+ul{
+    display: inline-block;
+}
+li{
+    font-weight: bold;
+}
